@@ -1,5 +1,5 @@
 ﻿Lista plików i ich zawarto z folderu: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator
-Wygenerowano: 06/27/2025 11:10:05
+Wygenerowano: 06/27/2025 11:27:42
 
 
 ------------------------------------------------------------------------------------------------------------------
@@ -145,12 +145,12 @@ next-env.d.ts
 
 ------------------------------------------------------------------------------------------------------------------
 
-   POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__11.10 Lista Plików .txt
+   POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__11.27 Lista Plików .txt
    Rozmiar: 145 bajtów
 
 
 Lista plików i ich zawarto z folderu: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator
-Wygenerowano: 06/27/2025 11:10:05
+Wygenerowano: 06/27/2025 11:27:42
 
 
 ------------------------------------------------------------------------------------------------------------------
@@ -296,14 +296,14 @@ next-env.d.ts
 
 ------------------------------------------------------------------------------------------------------------------
 
-   POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__11.10 Lista Plików .txt
+   POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__11.27 Lista Plików .txt
    Rozmiar: 145 bajtów
 
 
 
 
 
-  KONIEC PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__11.10 Lista Plików .txt
+  KONIEC PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__11.27 Lista Plików .txt
 
 
 
