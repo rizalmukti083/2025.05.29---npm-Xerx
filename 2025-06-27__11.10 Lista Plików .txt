@@ -1,5 +1,5 @@
 ﻿Lista plików i ich zawarto z folderu: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator
-Wygenerowano: 06/27/2025 09:37:30
+Wygenerowano: 06/27/2025 11:10:05
 
 
 ------------------------------------------------------------------------------------------------------------------
@@ -73,6 +73,21 @@ NEXT_PUBLIC_PINATA_GATEWAY_URL=https://brown-solid-badger-172.mypinata.cloud/ipf
 
 ------------------------------------------------------------------------------------------------------------------
 
+   POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\.gitattributes
+   Rozmiar: 66 bajtów
+
+
+# Auto detect text files and perform LF normalization
+* text=auto
+
+
+
+  KONIEC PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\.gitattributes
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
    POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\.gitignore
    Rozmiar: 522 bajtów
 
@@ -130,12 +145,12 @@ next-env.d.ts
 
 ------------------------------------------------------------------------------------------------------------------
 
-   POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__09.37 Lista Plików .txt
+   POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__11.10 Lista Plików .txt
    Rozmiar: 145 bajtów
 
 
 Lista plików i ich zawarto z folderu: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator
-Wygenerowano: 06/27/2025 09:37:30
+Wygenerowano: 06/27/2025 11:10:05
 
 
 ------------------------------------------------------------------------------------------------------------------
@@ -209,6 +224,21 @@ NEXT_PUBLIC_PINATA_GATEWAY_URL=https://brown-solid-badger-172.mypinata.cloud/ipf
 
 ------------------------------------------------------------------------------------------------------------------
 
+   POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\.gitattributes
+   Rozmiar: 66 bajtów
+
+
+# Auto detect text files and perform LF normalization
+* text=auto
+
+
+
+  KONIEC PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\.gitattributes
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
    POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\.gitignore
    Rozmiar: 522 bajtów
 
@@ -266,14 +296,14 @@ next-env.d.ts
 
 ------------------------------------------------------------------------------------------------------------------
 
-   POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__09.37 Lista Plików .txt
+   POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__11.10 Lista Plików .txt
    Rozmiar: 145 bajtów
 
 
 
 
 
-  KONIEC PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__09.37 Lista Plików .txt
+  KONIEC PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\2025-06-27__11.10 Lista Plików .txt
 
 
 
@@ -26938,18 +26968,12 @@ export default {
 ------------------------------------------------------------------------------------------------------------------
 
    POCZTEK PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\src\app\layout.js
-   Rozmiar: 696 bajtów
+   Rozmiar: 480 bajtów
 
 
-import { Montserrat } from "next/font/google";
 import "./globals.css";
 import AppWalletProvider from "@/provider/AppWalletProvider";
 import { Toaster } from "sonner";
-const montserrat = Montserrat({
-  weight: ["400", "500", "600", "700"],
-  subsets: ["latin"],
-  variable: "--font-montserrat",
-});
 export const metadata = {
   title: "Solana Token Creator",
   description: "Create your own Solana token",
@@ -26958,7 +26982,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${montserrat.variable}`}>
+      <body>
         <AppWalletProvider>
           <Toaster position="top-center" />
           {children}
@@ -26967,7 +26991,6 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
-
 
 
   KONIEC PLIKU: C:\Intel\gp\Files\681809149812\npm XerxesCodersolana-token-creator\src\app\layout.js
